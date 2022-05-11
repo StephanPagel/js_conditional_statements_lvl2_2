@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    margin: 35vh 0;
+    font-size: 1.5rem;
+}
+
+label {
+    display: block;
+}
